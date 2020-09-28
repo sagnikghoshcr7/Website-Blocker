@@ -1,4 +1,5 @@
-# Website-Blocker
+<img src="https://github.com/sagnikghoshcr7/images/blob/master/Website%20Blocker%20gif.gif" height="50px" width="405px"></h1>
+
 This is website blocker that can block the website for certain time range to boost your productivity while work and keep you away from distraction.
 
 ### Prerequisite:
