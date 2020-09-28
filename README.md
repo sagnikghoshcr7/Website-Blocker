@@ -4,6 +4,12 @@ This is website blocker that can block the website for certain time range to boo
 ### Prerequisite:
   - Python 3.x
   
+### Get the code from the repository
+
+```
+https://github.com/sagnikghoshcr7/Website-Blocker.git
+```
+  
 ### How To Use:
   - First copy all the files to a folder
   - Open sitelist.txt
