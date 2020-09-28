@@ -19,8 +19,10 @@ This is website blocker that can block the website for certain time range to boo
   
   ### For Mac or Linux
   - Open Terminal(Linux or Mac) on the blocker folder and Type
-
-   >$ sudo python3 blocker.py
+  
+```
+ $ sudo python3 blocker.py
+```
   
   ### For Windows
   - Right click on 'run.bat' 
