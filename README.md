@@ -7,7 +7,7 @@ This is website blocker that can block the website for certain time range to boo
 ### Get the code from the repository
 
 ```
-https://github.com/sagnikghoshcr7/Website-Blocker.git
+git clone https://github.com/sagnikghoshcr7/Website-Blocker.git
 ```
   
 ### How To Use:
